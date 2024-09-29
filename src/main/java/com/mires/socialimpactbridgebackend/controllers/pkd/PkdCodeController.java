@@ -78,6 +78,10 @@ public class PkdCodeController {
                 "            \"sekcja\": \"SEKCJA C\"\n" +
                 "        },\n" +
                 "        {\n" +
+                "            \"12\": \"PRODUKCJA WYROBÓW TYTONIOWYCH\n\",\n" +
+                "            \"sekcja\": \"SEKCJA C\"\n" +
+                "        },\n" +
+                "        {\n" +
                 "            \"13\": \"PRODUKCJA WYROBÓW TEKSTYLNYCH\",\n" +
                 "            \"sekcja\": \"SEKCJA C\"\n" +
                 "        },\n" +
